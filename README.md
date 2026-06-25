@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently pursuing: BCA (2nd year) and building small projects to improve my skills.<br>👯 I’m looking to collaborate on: Beginner-friendly web development or Java projects.<br>🤝 I’m looking for help with: Understanding data structures, writing cleaner code, and improving project structure.<br>🌱 I’m currently learning: Java, HTML/CSS, JavaScript, SQL, and problem-solving basics.<br>💬 Ask me about: My projects, BCA coursework, or beginner-level programming.<br>⚡ Fun fact: Half of my coding time is debugging… the other half is celebrating when it finally works 😄
+I’m currently pursuing: BCA (3rd year) and building small projects to improve my skills.<br>👯 I’m looking to collaborate on: Beginner-friendly web development or Java projects.<br>🤝 I’m looking for help with: Understanding data structures, writing cleaner code, and improving project structure.<br>🌱 I’m currently learning: Java, HTML/CSS, JavaScript, SQL, and problem-solving basics.<br>💬 Ask me about: My projects, BCA coursework, or beginner-level programming.<br>⚡ Fun fact: Half of my coding time is debugging… the other half is celebrating when it finally works 😄
 
 
 ## 🌐 Socials:
